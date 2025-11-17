@@ -1,3 +1,4 @@
+![Logo](./PulseGate.png)
 # PulseGate
 
 **Fast. Safe. Replayable.**
